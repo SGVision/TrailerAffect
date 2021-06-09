@@ -1,4 +1,4 @@
-# TrailerAffect Dataset
+# TrailerAffect (/TrailerFaces) Dataset
 
 ## Data Access
 The [TrailerFaces](https://data.vision.ee.ethz.ch/zzhiwu/trailerFaces-tfrecords.zip) dataset is publicly available. (**Note that we tentatively release the tfrecord data to avoid the copyright issue.**)
