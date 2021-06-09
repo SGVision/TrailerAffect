@@ -9,6 +9,8 @@ The [TrailerFaces](https://data.vision.ee.ethz.ch/zzhiwu/trailerFaces-tfrecords.
 TrailerFaces sample:
 ![Trailerfaces sample](https://github.com/musikisomorphie/swd/blob/master/progressive_training/trailer_faces_samples.png)
 
+![Trailerfaces video sample](https://github.com/AutoLV/TrailerAffect/trailerfaces_reals.avi)
+
 
 ## Citation
 * If you use the TrailerFace dataset for your research, please cite our papers.
