@@ -6,3 +6,20 @@
 
 TrailerFaces sample:
 ![Trailerfaces sample](https://github.com/musikisomorphie/swd/blob/master/progressive_training/trailer_faces_samples.png)
+
+
+### Citation
+* If you use this code for your research, please cite our papers.
+```
+@inproceedings{jqwu&zwhuang2019swgm,
+  title={Sliced Wasserstein Generative Models},  
+  author={Jiqing Wu, Zhiwu Huang, Dinesh Acharya, Wen Li, Janine Thoma, Danda Pani Paudel, Luc Van Gool},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2019}  
+}
+@inproceedings{acharya2018towards,
+  title={Towards High Resolution Video Generation with Progressive Growing of Sliced {Wasserstein GANs}},  
+  author={Dinesh Acharya, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool},
+  booktitle={arXiv preprint arXiv:1810.02419},
+  year={2018}  
+}
