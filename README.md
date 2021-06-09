@@ -10,7 +10,7 @@ TrailerFaces sample:
 
 
 ### Citation
-* If you use this code for your research, please cite our papers.
+* If you use the TrailerFace dataset for your research, please cite our papers.
 ```
 @inproceedings{jqwu&zwhuang2019swgm,
   title={Sliced Wasserstein Generative Models},  
