@@ -19,9 +19,9 @@ TrailerFaces sample (For video exmaples, please find 'trailerfaces_reals.avi' at
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2019}  
 }
-@inproceedings{acharya2018towards,
+@article{acharya2018towards,
   title={Towards High Resolution Video Generation with Progressive Growing of Sliced {Wasserstein GANs}},  
   author={Dinesh Acharya, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool},
-  booktitle={arXiv preprint arXiv:1810.02419},
+  journal={arXiv preprint arXiv:1810.02419},
   year={2018}  
 }
